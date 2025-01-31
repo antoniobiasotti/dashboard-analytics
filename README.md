@@ -2,7 +2,6 @@
     <h1 align="center">
         Web Scraping with Beautiful Soup(bs4) for<br>Dashboard Analytics
     </h1>
-## Stack
 <!-- Linguagens -->
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
 ![Plotly Badge](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=flat-square)
