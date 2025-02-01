@@ -12,4 +12,5 @@ A company's stock share is a piece of the company; more precisely:<br><br>
 <i>A stock (also known as equity) is a security that represents the ownership of a fraction of a corporation. This entitles the owner of the stock to a proportion of the corporation's assets and profits equal to how much stock they own. Units of stock are called "shares."</i><br><br>
 Determining the stock price is complex; it depends on the number of outstanding shares, the size of the company's future profits, and much more. The stock ticker is a report of the price of a certain stock, updated continuously throughout the trading session by the various stock market exchanges. 
 <br><br>I used the  yfinance API to obtain the stock ticker and extract information about the stock.
-yfinance is an open-source tool that offers a reliable method of downloading historical market data from Yahoo! Finance's API.</p>
+yfinance is an open-source tool that offers a reliable method of downloading historical market data from Yahoo! Finance's API.
+The format that the data is returned is in a Pandas DataFrame</p>
