@@ -13,7 +13,7 @@ A company's stock share is a piece of the company; more precisely:<br><br>
 Determining the stock price is complex; it depends on the number of outstanding shares, the size of the company's future profits, and much more. The stock ticker is a report of the price of a certain stock, updated continuously throughout the trading session by the various stock market exchanges. 
 <br><br>I used the  yfinance API to obtain the stock ticker and extract information about the stock.
 yfinance is an open-source tool that offers a reliable method of downloading historical market data from Yahoo! Finance's API.
-The format that the data is returned is in a Pandas DataFrame.<br><br>
+The format that the data is returned is in a Pandas DataFrame.<hr>
 <h3>Bs4 vs Selenium</h3>
-Although BeautifulSoup runs faster, it's only limited to static pages,</p>
+Although BeautifulSoup in most of the cases runs faster, it's only limited to static pages. On the other hand, Selenium supports scrapping from dynamic pages, wich usually have more complex structures.</p>
  
